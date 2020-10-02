@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/funny-buttons-in-react/static/css/main.0dbf51f8.chunk.css",
+    "main.js": "/funny-buttons-in-react/static/js/main.8b89f882.chunk.js",
+    "main.js.map": "/funny-buttons-in-react/static/js/main.8b89f882.chunk.js.map",
+    "runtime-main.js": "/funny-buttons-in-react/static/js/runtime-main.630731db.js",
+    "runtime-main.js.map": "/funny-buttons-in-react/static/js/runtime-main.630731db.js.map",
+    "static/js/2.fac57dd7.chunk.js": "/funny-buttons-in-react/static/js/2.fac57dd7.chunk.js",
+    "static/js/2.fac57dd7.chunk.js.map": "/funny-buttons-in-react/static/js/2.fac57dd7.chunk.js.map",
+    "index.html": "/funny-buttons-in-react/index.html",
+    "precache-manifest.6d42c5ebd00a6489bd076968ec060807.js": "/funny-buttons-in-react/precache-manifest.6d42c5ebd00a6489bd076968ec060807.js",
+    "service-worker.js": "/funny-buttons-in-react/service-worker.js",
+    "static/css/main.0dbf51f8.chunk.css.map": "/funny-buttons-in-react/static/css/main.0dbf51f8.chunk.css.map",
+    "static/js/2.fac57dd7.chunk.js.LICENSE.txt": "/funny-buttons-in-react/static/js/2.fac57dd7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.630731db.js",
+    "static/js/2.fac57dd7.chunk.js",
+    "static/css/main.0dbf51f8.chunk.css",
+    "static/js/main.8b89f882.chunk.js"
+  ]
+}
